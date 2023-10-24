@@ -11,3 +11,5 @@
 * [InfosecPrep](proving-grouns-plays/infosecprep.md)
 * [Seppuku](proving-grouns-plays/seppuku.md)
 * [DC 1](proving-grouns-plays/dc-1.md)
+* [DC 2](proving-grouns-plays/dc-2.md)
+* [FunboxEasyEnum](proving-grouns-plays/funboxeasyenum.md)
