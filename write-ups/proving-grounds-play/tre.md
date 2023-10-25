@@ -40,7 +40,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231021122436.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231021122436.png" alt=""><figcaption></figcaption></figure>
 
 admin:admin
 
@@ -50,11 +50,11 @@ http://192.168.240.84/system/verify.php?id=1\&confirm\_hash=
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231021124122.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231021124122.png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231021182901.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231021182901.png" alt=""><figcaption></figcaption></figure>
 
 ## 22 - ssh
 
@@ -67,7 +67,7 @@ Tr3@123456A!
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231021183720.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231021183720.png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 tre@tre:~$ ls -la /usr/bin/check-system 

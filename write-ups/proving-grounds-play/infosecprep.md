@@ -133,7 +133,7 @@ find / -user root -perm -4000 2>/dev/null
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231022180245.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231022180245.png" alt=""><figcaption></figcaption></figure>
 
 #### ip file
 

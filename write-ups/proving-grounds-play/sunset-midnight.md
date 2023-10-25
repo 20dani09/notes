@@ -75,7 +75,7 @@ update wp_users set user_pass="5f4dcc3b5aa765d61d8327deb882cf99" where id=1;
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231022130312 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231022130312 (1).png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 nc -lvnp 1234
@@ -97,7 +97,7 @@ strings /usr/bin/status
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231022131717.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231022131717.png" alt=""><figcaption></figcaption></figure>
 
 ### Path hijacking
 

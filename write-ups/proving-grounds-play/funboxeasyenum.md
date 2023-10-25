@@ -38,7 +38,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231023220428.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231023220428.png" alt=""><figcaption></figcaption></figure>
 
 ## PrivEsc
 

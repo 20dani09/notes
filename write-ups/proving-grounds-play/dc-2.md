@@ -47,7 +47,7 @@ tom
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231023190517.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231023190517.png" alt=""><figcaption></figcaption></figure>
 
 _cewl_ is a Ruby-based web crawler that is used for scraping words from websites to create custom wordlists. It is commonly used in cybersecurity and penetration testing contexts to generate wordlists for password cracking and other security testing purposes.
 
@@ -81,7 +81,7 @@ ls -la /home/tom/usr/bin
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231023193507.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231023193507.png" alt=""><figcaption></figcaption></figure>
 
 https://0xffsec.com/handbook/shells/restricted-shells/
 

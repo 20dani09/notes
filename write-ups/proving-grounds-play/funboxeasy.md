@@ -70,7 +70,7 @@ admin:admin
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231024215530.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231024215530.png" alt=""><figcaption></figcaption></figure>
 
 ## PrivEsc
 

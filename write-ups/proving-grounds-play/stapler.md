@@ -204,7 +204,7 @@ I'm making sure to backup anything important for Initech, Kathy
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231019215400.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231019215400.png" alt=""><figcaption></figcaption></figure>
 
 ### Source code
 
@@ -214,7 +214,7 @@ I'm making sure to backup anything important for Initech, Kathy
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231019215417.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231019215417.png" alt=""><figcaption></figcaption></figure>
 
 ### https
 
@@ -240,7 +240,7 @@ Disallow: /blogblog/
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231020170811.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231020170811.png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 whatweb https://$IP:12380/blogblog/
@@ -283,7 +283,7 @@ wpscan --url https://192.168.220.148:12380/blogblog/ --disable-tls-checks --enum
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231020172828.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231020172828.png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 searchsploit advanced video
@@ -384,7 +384,7 @@ john --wordlist=/usr/share/wordlists/rockyou.txt hash.txt
 
 
 
-<figure><img src="../.gitbook/assets/Pasted image 20231020184147.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231020184147.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://raw.githubusercontent.com/pentestmonkey/php-reverse-shell/master/php-reverse-shell.php" %}
 

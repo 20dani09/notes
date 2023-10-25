@@ -2,15 +2,16 @@
 
 * [😎 Links](README.md)
 
-## Proving Grouns Plays
+## Write Up's
 
-* [SoSimple](proving-grouns-plays/sosimple.md)
-* [Stapler](proving-grouns-plays/stapler.md)
-* [Tre](proving-grouns-plays/tre.md)
-* [Sunset Midnight](proving-grouns-plays/sunset-midnight.md)
-* [InfosecPrep](proving-grouns-plays/infosecprep.md)
-* [Seppuku](proving-grouns-plays/seppuku.md)
-* [DC 1](proving-grouns-plays/dc-1.md)
-* [DC 2](proving-grouns-plays/dc-2.md)
-* [FunboxEasyEnum](proving-grouns-plays/funboxeasyenum.md)
-* [FunboxEasy](proving-grouns-plays/funboxeasy.md)
+* [Proving Grounds Play](write-ups/proving-grounds-play/README.md)
+  * [SoSimple](write-ups/proving-grounds-play/sosimple.md)
+  * [Stapler](write-ups/proving-grounds-play/stapler.md)
+  * [Tre](write-ups/proving-grounds-play/tre.md)
+  * [Sunset Midnight](write-ups/proving-grounds-play/sunset-midnight.md)
+  * [InfosecPrep](write-ups/proving-grounds-play/infosecprep.md)
+  * [Seppuku](write-ups/proving-grounds-play/seppuku.md)
+  * [DC 1](write-ups/proving-grounds-play/dc-1.md)
+  * [DC 2](write-ups/proving-grounds-play/dc-2.md)
+  * [FunboxEasy](write-ups/proving-grounds-play/funboxeasy.md)
+  * [FunboxEasyEnum](write-ups/proving-grounds-play/funboxeasyenum.md)
