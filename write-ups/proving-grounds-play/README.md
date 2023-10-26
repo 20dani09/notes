@@ -12,10 +12,10 @@ description: TJ Null PGP VM List
 * [x] Seppuku
 * [x] DC-1
 * [x] DC-2
-* [ ] Assertion101
+* [x] Assertion101
 * [x] FunboxEasy
 * [x] FunboxEasyEnum
-* [ ] DriftingBlue6
+* [x] DriftingBlue6
 
 
 

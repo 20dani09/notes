@@ -15,3 +15,5 @@
   * [DC 2](write-ups/proving-grounds-play/dc-2.md)
   * [FunboxEasy](write-ups/proving-grounds-play/funboxeasy.md)
   * [FunboxEasyEnum](write-ups/proving-grounds-play/funboxeasyenum.md)
+  * [DriftingBlues6](write-ups/proving-grounds-play/driftingblues6.md)
+  * [Assertion101](write-ups/proving-grounds-play/assertion101.md)
