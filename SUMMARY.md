@@ -17,3 +17,4 @@
   * [FunboxEasyEnum](write-ups/proving-grounds-play/funboxeasyenum.md)
   * [DriftingBlues6](write-ups/proving-grounds-play/driftingblues6.md)
   * [Assertion101](write-ups/proving-grounds-play/assertion101.md)
+  * [Election1](write-ups/proving-grounds-play/election1.md)
