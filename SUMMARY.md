@@ -18,3 +18,5 @@
   * [DriftingBlues6](write-ups/proving-grounds-play/driftingblues6.md)
   * [Assertion101](write-ups/proving-grounds-play/assertion101.md)
   * [Election1](write-ups/proving-grounds-play/election1.md)
+* [Vulnhub](write-ups/vulnhub/README.md)
+  * [DC 9](write-ups/vulnhub/dc-9.md)
