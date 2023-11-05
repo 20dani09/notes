@@ -2,6 +2,12 @@
 
 * [😎 Links](README.md)
 
+## Enumeration
+
+* [NMAP](enumeration/nmap/README.md)
+  * [Nmap](enumeration/nmap/nmap.md)
+  * [Firewall and IDS IPS Evasion](enumeration/nmap/firewall-and-ids-ips-evasion.md)
+
 ## Write Up's
 
 * [Proving Grounds Play](write-ups/proving-grounds-play/README.md)
@@ -20,3 +26,7 @@
   * [Election1](write-ups/proving-grounds-play/election1.md)
 * [Vulnhub](write-ups/vulnhub/README.md)
   * [DC 9](write-ups/vulnhub/dc-9.md)
+
+## Copy
+
+* [Copy1](copy/copy1.md)
