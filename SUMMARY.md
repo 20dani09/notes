@@ -8,6 +8,8 @@
   * [Nmap](enumeration/nmap/nmap.md)
   * [Firewall and IDS IPS Evasion](enumeration/nmap/firewall-and-ids-ips-evasion.md)
 * [21 - FTP](enumeration/21-ftp.md)
+* [53 DNS](enumeration/53-dns.md)
+* [111, 2049 - NFS](enumeration/111-2049-nfs.md)
 
 ## Write Up's
 
