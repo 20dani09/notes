@@ -10,6 +10,7 @@
 * [21 - FTP](enumeration/21-ftp.md)
 * [53 DNS](enumeration/53-dns.md)
 * [111, 2049 - NFS](enumeration/111-2049-nfs.md)
+* [139, 445 - SMB](enumeration/139-445-smb.md)
 
 ## Write Up's
 
