@@ -12,6 +12,8 @@
 * [111, 2049 - NFS](enumeration/111-2049-nfs.md)
 * [139, 445 - SMB](enumeration/139-445-smb.md)
 * [25 SMTP](enumeration/25-smtp.md)
+* [110, 995 POP3](enumeration/110-995-pop3.md)
+* [143, 993 IMAP](enumeration/143-993-imap.md)
 
 ## Write Up's
 
