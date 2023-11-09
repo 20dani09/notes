@@ -14,8 +14,8 @@
 * [111, 2049 - NFS](enumeration/111-2049-nfs.md)
 * [139, 445 - SMB](enumeration/139-445-smb.md)
 * [143, 993 - IMAP](enumeration/143-993-imap.md)
-* [161, 162 SNMP](enumeration/161-162-snmp.md)
-* [623 IPMI](enumeration/623-ipmi.md)
+* [161, 162 - SNMP](enumeration/161-162-snmp.md)
+* [623 - IPMI](enumeration/623-ipmi.md)
 
 ## Write Up's
 
