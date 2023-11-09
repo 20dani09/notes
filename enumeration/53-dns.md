@@ -1,4 +1,4 @@
-# 53 DNS
+# 53 - DNS
 
 ***
 
@@ -28,4 +28,18 @@ dig axfr internal.inlanefreight.htb @10.129.33.24
 
 ```bash
 dnsenum --dnsserver 10.129.33.24 --enum -p 0 -s 0 -o subdomains.txt -f /usr/share/seclists/Discovery/DNS/subdomains-top1million-110000.txt inlanefreight.htb
+```
+
+## AXFR example
+
+```bash
+dig axfr inlanefreight.htb 10.129.53.194
+```
+
+```bash
+nslookup -query=axfr inlanefreight.htb 10.129.53.194 | grep "Name:" | cut -d ":" -f2 | while read ZONE; do nslookup -query=axfr $ZONE 10.129.53.194; done > zones.txt
+```
+
+```bash
+nslookup -query=axfr internal.inlanefreight.htb 10.129.53.194
 ```
