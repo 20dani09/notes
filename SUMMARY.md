@@ -18,7 +18,7 @@
 * [161, 162 - SNMP](enumeration/161-162-snmp.md)
 * [623 - IPMI](enumeration/623-ipmi.md)
 * [1433 - MSSQL](enumeration/1433-mssql.md)
-* [1521, 1522 - 1529 - Oracle TNS](enumeration/1521-1522-1529-oracle-tns.md)
+* [1521, 1522-1529 - Oracle TNS](enumeration/1521-1522-1529-oracle-tns.md)
 
 ## Write Up's
 
