@@ -1,7 +1,6 @@
 # Table of contents
 
 * [😎 Links](README.md)
-  * [Information gathering](readme/information-gathering.md)
 
 ## Enumeration
 
@@ -19,6 +18,10 @@
 * [623 - IPMI](enumeration/623-ipmi.md)
 * [1433 - MSSQL](enumeration/1433-mssql.md)
 * [1521, 1522-1529 - Oracle TNS](enumeration/1521-1522-1529-oracle-tns.md)
+
+***
+
+* [Information gathering](information-gathering.md)
 
 ## Write Up's
 
