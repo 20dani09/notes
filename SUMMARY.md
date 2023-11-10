@@ -1,6 +1,7 @@
 # Table of contents
 
 * [😎 Links](README.md)
+  * [Information gathering](readme/information-gathering.md)
 
 ## Enumeration
 
@@ -16,6 +17,7 @@
 * [143, 993 - IMAP](enumeration/143-993-imap.md)
 * [161, 162 - SNMP](enumeration/161-162-snmp.md)
 * [623 - IPMI](enumeration/623-ipmi.md)
+* [1433 MSSQL](enumeration/1433-mssql.md)
 
 ## Write Up's
 
