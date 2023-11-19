@@ -24,10 +24,13 @@
 ***
 
 * [Information gathering](information-gathering.md)
-  
-***
-
 * [Metasploit](Metasploit.md)
+
+## Shells
+
+* [Shells](shells/copy1.md)
+* [TTY](shells/tty.md)
+
 ## Write Up's
 
 * [Proving Grounds Play](write-ups/proving-grounds-play/README.md)
