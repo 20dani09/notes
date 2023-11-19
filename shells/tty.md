@@ -1,5 +1,7 @@
 # TTY
 
+***
+
 ```shell
 script /dev/null -c bash
 ```

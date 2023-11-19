@@ -25,11 +25,12 @@
 
 * [Information gathering](information-gathering.md)
 * [Metasploit](Metasploit.md)
-
-## Shells
-
-* [Shells](shells/copy1.md)
-* [TTY](shells/tty.md)
+* [Shells](shells/README.md)
+  * [TTY](shells/tty.md)
+* [File Transfers](file-transfers/README.md)
+  * [File Transfers](file-transfers/file-transfers.md)
+  * [Windows File Transfers](file-transfers/windows-file-transfers.md)
+  * [Linux File Transfers](file-transfers/linux-file-transfers.md)
 
 ## Write Up's
 
