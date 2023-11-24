@@ -36,4 +36,6 @@ listener_list
 
 https://excalidraw.com/#json=5jBoX9n28pzayCABeqqL2,IYDDVuJPlzLfXUHNpUx\_vg
 
-!\[\[Pasted image 20231124175800.png]]
+
+
+<figure><img src="../.gitbook/assets/Pasted image 20231124175800.png" alt=""><figcaption></figcaption></figure>
