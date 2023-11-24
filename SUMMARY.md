@@ -34,15 +34,21 @@
 
 ## Password Attacks
 
+* [Passwords Attacks](password-attacks/passwords-attacks.md)
+* [Pass the Hash](password-attacks/pass-the-hash.md)
+* [Linux](password-attacks/linux/README.md)
+  * [Pass the Ticket](password-attacks/linux/pass-the-ticket.md)
 * [Windows](password-attacks/windows/README.md)
   * [Attacking LDASS](password-attacks/windows/attacking-ldass.md)
   * [Attacking AD & NTDS.dit](password-attacks/windows/attacking-ad-and-ntds.dit.md)
   * [Attacking SAM](password-attacks/windows/attacking-sam.md)
   * [Pass the Ticket Windows](password-attacks/windows/pass-the-ticket-windows.md)
-* [Linux](password-attacks/linux/README.md)
-  * [Pass the Ticket](password-attacks/linux/pass-the-ticket.md)
-* [Pass the Hash](password-attacks/pass-the-hash.md)
-* [Passwords Attacks](password-attacks/passwords-attacks.md)
+
+## Pivoting, Tunneling, and Port Forwarding
+
+* [Pivoting](pivoting-tunneling-and-port-forwarding/copy1.md)
+* [Chisel](pivoting-tunneling-and-port-forwarding/chisel.md)
+* [Ligolo](pivoting-tunneling-and-port-forwarding/ligolo.md)
 
 ## Write Up's
 
@@ -66,3 +72,8 @@
 ## Copy
 
 * [Copy1](copy/copy1.md)
+
+***
+
+* [Import](import.md)
+* [Import](import-1.md)
