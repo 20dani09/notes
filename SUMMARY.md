@@ -51,6 +51,30 @@
 * [Chisel](pivoting-tunneling-and-port-forwarding/chisel.md)
 * [Ligolo](pivoting-tunneling-and-port-forwarding/ligolo.md)
 
+***
+
+* [Active Directory](active-directory/README.md)
+  * [ACL Enumeration & tactics](active-directory/acl-enumeration-and-tactics.md)
+  * [ASREP Roasting](active-directory/asrep-roasting.md)
+  * [PrintNightmare](active-directory/printnightmare.md)
+  * [Privileged Access](active-directory/privileged-access.md)
+  * [Tools](active-directory/tools.md)
+  * [Transfering files](active-directory/transfering-files.md)
+  * [Trust Relationships Child Parent Trusts](active-directory/trust-relationships-child-parent-trusts.md)
+  * [Credentialed Enumeration](active-directory/credentialed-enumeration.md)
+  * [Trust Relationships Cross Forest](active-directory/trust-relationships-cross-forest.md)
+  * [DCSync](active-directory/dcsync.md)
+  * [Enumerating by Living Off the Land](active-directory/enumerating-by-living-off-the-land.md)
+  * [Enumerating Security Controls](active-directory/enumerating-security-controls.md)
+  * [Group Policy Enumeration & Attacks](active-directory/group-policy-enumeration-and-attacks.md)
+  * [Initial enum](active-directory/initial-enum.md)
+  * [Kerberoasting](active-directory/kerberoasting.md)
+  * [LLMR NTB NS Poisoning](active-directory/llmr-ntb-ns-poisoning.md)
+  * [Miscellaneous Misconfigurations](active-directory/miscellaneous-misconfigurations.md)
+  * [NoPac](active-directory/nopac.md)
+  * [Password Spraying & Password Policies](active-directory/password-spraying-and-password-policies.md)
+  * [Petit Potam](active-directory/petit-potam.md)
+
 ## Write Up's
 
 * [Proving Grounds Play](write-ups/proving-grounds-play/README.md)
@@ -77,4 +101,3 @@
 ***
 
 * [Import](import.md)
-* [Import](import-1.md)
