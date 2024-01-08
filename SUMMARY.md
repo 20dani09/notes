@@ -10,6 +10,8 @@
 * [21 - FTP](enumeration/21-ftp.md)
 * [25 - SMTP](enumeration/25-smtp.md)
 * [53 - DNS](enumeration/53-dns.md)
+* [80 - HTTP](enumeration/80-http/README.md)
+  * [80 - Common Applications](enumeration/80-http/80-common-applications.md)
 * [110, 995 - POP3](enumeration/110-995-pop3.md)
 * [111, 2049 - NFS](enumeration/111-2049-nfs.md)
 * [139, 445 - SMB](enumeration/139-445-smb.md)
@@ -20,7 +22,6 @@
 * [1521, 1522-1529 - Oracle TNS](enumeration/1521-1522-1529-oracle-tns.md)
 * [3389 RDP](enumeration/3389-rdp.md)
 * [3306 MySQL](enumeration/3306-mysql.md)
-* [80 - HTTP](enumeration/80-http.md)
 
 ***
 
@@ -93,6 +94,11 @@
   * [Election1](write-ups/proving-grounds-play/election1.md)
 * [Vulnhub](write-ups/vulnhub/README.md)
   * [DC 9](write-ups/vulnhub/dc-9.md)
+
+## PrivEsc
+
+* [Linux](privesc/linux.md)
+* [Windows](privesc/windows.md)
 
 ## Copy
 
