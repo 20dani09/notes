@@ -23,6 +23,16 @@
 * [3389 RDP](enumeration/3389-rdp.md)
 * [3306 MySQL](enumeration/3306-mysql.md)
 
+## Web
+
+* [File Upload](web/file-upload.md)
+* [Command Injections](web/command-injections.md)
+* [LFI](web/lfi.md)
+* [SQLi](web/sqli.md)
+* [SQLmap](web/sqlmap.md)
+* [XSS](web/xss.md)
+* [XXE](web/xxe.md)
+
 ***
 
 * [Information gathering](information-gathering.md)
